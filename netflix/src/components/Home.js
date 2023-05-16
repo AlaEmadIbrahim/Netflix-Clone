@@ -35,7 +35,8 @@ function Home() {
                   <p>{item.release_date}</p>
                   <p>{item.overview}</p>
                 </Card.Text>
-                <Button variant="primary">Add to my Favorites movies</Button>
+                <Button variant="primary">Delete from my fav</Button>
+                <Button variant="primary">Update movie</Button>
               </Card.Body>
             </Card>
           </Col>
